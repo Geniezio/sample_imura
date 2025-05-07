@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>0.059 µSv/h</name><description>地表面から1 mの高さの空間線量率: 0.059 µSv/h
 field_id: 1</description><Style><PolyStyle><color>70F0B000</color></PolyStyle><LineStyle><color>ff000000</color><width>0.001</width></LineStyle></Style><Polygon><outerBoundaryIs><LinearRing><coordinates>138.6427287056523,37.24117285664669,0 138.6427287056523,37.243891205697665,0 138.64544705470328,37.243891205697665,0 138.64544705470328,37.24117285664669,0 138.6427287056523,37.24117285664669,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+<Placemark><name>0.059 µSv/h</name><description>地表面から1 mの高さの空間線量率: 0.059 µSv/h
+field_id: 2</description><Style><PolyStyle><color>70F0B000</color></PolyStyle><LineStyle><color>ff000000</color><width>0.001</width></LineStyle></Style><Polygon><outerBoundaryIs><LinearRing><coordinates>138.64544705470328,37.24117285664669,0 138.64544705470328,37.243891205697665,0 138.64816540375426,37.243891205697665,0 138.64816540375426,37.24117285664669,0 138.64544705470328,37.24117285664669,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
 </Document></kml>
